@@ -1,7 +1,0 @@
-{
-   "customerId": 2,
-   "customerName": "abhishek",
-   "loanNo": "no",
-   "policy": "yes",
-   "policyStatus": "no"
-}
