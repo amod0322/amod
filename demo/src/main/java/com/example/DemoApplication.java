@@ -9,6 +9,6 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(Hello.class, args);
 	}
 }
