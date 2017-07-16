@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Hello.class, args);
+		SpringApplication.run(master.class, args);
 		nice to see you 
 		git changes commit 
 	}
