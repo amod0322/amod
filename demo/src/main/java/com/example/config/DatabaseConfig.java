@@ -36,6 +36,7 @@ public class DatabaseConfig {
   
   @Value("${hibernate.hbm2ddl.auto}")
   private String HIBERNATE_HBM2DDL_AUTO;
+  // another commit
 
   @Value("${entitymanager.packagesToScan}")
   private String ENTITYMANAGER_PACKAGES_TO_SCAN;
