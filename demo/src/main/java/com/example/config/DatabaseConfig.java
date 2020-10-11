@@ -14,9 +14,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @Configuration
 @EnableTransactionManagement
-// Hello Viplav
 public class DatabaseConfig {
-  /// nice comment
 
   @Value("${db.driver}")
   private String DB_DRIVER;
